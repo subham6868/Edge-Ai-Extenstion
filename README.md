@@ -8,9 +8,6 @@ Plain English Summaries: Translates dense legal jargon into concise, non-lawyer 
 Automated Dispute Drafts: Generates pre-written, assertive email drafts addressed to the company to question or dispute questionable clauses
 Smart Rate-Limit Handling: Integrates automated retry delays for API requests when rate limits are met
 # Usage
-#Load the Extension
-Open Chrome and navigate to chrome://extensions/.Enable Developer mode in the top right corner. Click Load unpacked and select the folder containing your extension files.
-#Analyze Legal Documents
-Navigate to any website's Terms of Service, Privacy Policy, or End User License Agreement page.  Click the Edge Eye AI Firewall icon in your extension toolbar.  Click Analyze Legal Text
-#Review Results & Action
-View key clauses categorized by severity (Critical, Warning, Safe).  Plain English Summary: Read the simplified bulleted overview.  Generate Fight Back Email: Click the button to open a pre-filled mailto: draft targeting concerning terms in your default email client.
+Open Chrome and navigate to chrome://extensions/.Enable Developer mode in the top right corner.Click Load unpacked and select the folder containing your extension files.
+Navigate to any website's Terms of Service, Privacy Policy, or End User License Agreement page.  Click the Edge Eye AI Firewall icon in your extension toolbar.Click Analyze Legal Text
+View key clauses categorized by severity (Critical, Warning, Safe).  Plain English Summary: Read the simplified bulleted overview.  Generate Fight Back Email:Click the button to open a pre-filled mailto: draft targeting concerning terms in your default email client.
