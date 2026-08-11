@@ -1,6 +1,6 @@
 # Edge Ai Extension
 # Reclaim Your Digital Autonomy!
-Edge Eye AI Firewall is a Chrome extension designed to summarize and flag critical privacy risks in website Terms of Service and Privacy Policy pages
+Edge Eye AI Firewall is a Chrome extension designed to summarize and flag critical privacy risks in website Terms of Service and Privacy Policy pages.Privacy Matters A lot
 # Key Feature:-
 Instant Keyword Verification: Automatically detects whether the active tab contains legal or terms-of-service content before initiating an analysis
 Severity Breakdown: Highlights and categorizes clauses into Critical, Warning, or Safe findings for quick scanning
